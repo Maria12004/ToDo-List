@@ -11,11 +11,11 @@ body{
    min-height: 100vh;
 }
 
-с-header {
+header {
    font-size: 1.5rem;
 }
 
-с-header,
+header,
 form{
    min-height: 15vh;
    display: flex;
