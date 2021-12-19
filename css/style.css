@@ -24,7 +24,8 @@ form{
 }
 
 h1{
-   text-align: center;
+   display: flex;
+   align-items: center;
 }
 
 form input,
