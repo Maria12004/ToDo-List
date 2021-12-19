@@ -22,9 +22,11 @@ form{
    justify-content: center;
    align-items: center ;
 }
+
 h1{
    text-align: center;
 }
+
 form input,
  form button{
    padding: 0.5rem;
