@@ -11,23 +11,18 @@ body{
    min-height: 100vh;
 }
 
-header {
+div#header {
    font-size: 1.5rem;
    display: flex;
    justify-content: center;
 }
 
-header,
+#header,
 form{
    min-height: 15vh;
    display: flex;
    justify-content: center;
    align-items: center ;
-}
-
-h1{
-   display: flex;
-   justify-content: center;
 }
 
 form input,
